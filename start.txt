@@ -1,0 +1,1 @@
+test github repo update from bash after adding a text file
